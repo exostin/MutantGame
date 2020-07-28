@@ -1,5 +1,5 @@
 # About
-## DISCONTINUED; For the actual version go here: https://github.com/exostin/MutantBreakout
+## DISCONTINUED due to technical reasons; For the current version go here: https://github.com/exostin/MutantBreakout
 This is a simple Unity 3D game project, that is developed by total noobs, with one not-so-noob guy who's our guru!
 
 ## We're using
